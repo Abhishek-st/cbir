@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1572149427 source:e:\pchef\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
+1570946528 source:e:\pchef\tech.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
